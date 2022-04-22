@@ -1,4 +1,4 @@
-# KayaMekinBaturalp
+# kayamekin
 
 <h3 align="center">A passionate mobile and web developer from Turkey</h3>
 
