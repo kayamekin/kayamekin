@@ -14,9 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter&dart , java , javascript, php**
 
-- 📝 I regularly write articles on [https://mekinbaturalp.com](https://mekinbaturalp.com)
-
-- 💬 Ask me about **Mobile developer**
+- 💬 Ask me about **Flutter dart php and javascript **
 
 - 📫 How to reach me **baturalpmekin@gmail.com**
 
