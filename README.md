@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter&dart , java , javascript, php**
 
-- 💬 Ask me about **Flutter dart php and javascript **
+- 💬 Ask me about **Flutter dart php and javascript**
 
 - 📫 How to reach me **baturalpmekin@gmail.com**
 
